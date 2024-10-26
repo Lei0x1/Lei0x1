@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on [CMakeAlchemy](https://github.com/Lei0x1/App-Manager)
+ 🔭 I’m currently working on [App Manager](https://github.com/Lei0x1/App-Manager)
  
  🌱 I’m currently learning **C/C++**
 
