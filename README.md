@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on [App Manager](https://github.com/Lei0x1/App-Manager)
+ 🔭 I’m currently working on [App Manager](https://github.com/Lei0x1/App-Manager), [CMakePreset Generator](https://github.com/Lei0x1/CMakePreset-Generator), [CMakeAlchemy](https://github.com/Lei0x1/CMakeAlchemy), [Station Eleven](https://github.com/Lei0x1/Station-Eleven)
  
- 🌱 I’m currently learning **C/C++**
+ 🌱 I’m currently learning **C/C++, Node, Python, Java, Html, CSS, Js**
 
 💬 Ask me about **C++ or anything [here](https://github.com/Lei0x1/Lei0x1/issues)**
 
@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Lei0x1/Lei0x1/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="dist/github-contribution-grid-snake-dark.svg?palette=github-dark" />
   
   <br/><br/><br/>
 </div>
