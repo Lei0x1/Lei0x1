@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on [CMakeAlchemy](https://github.com/Lei0x1/CMakeAlchemy)
+ 🔭 I’m currently working on [CMakeAlchemy](https://github.com/Lei0x1/App-Manager)
  
- 🌱 I’m currently learning **C/C++, Js, Node, Python**
+ 🌱 I’m currently learning **C/C++**
 
 💬 Ask me about **C++ or anything [here](https://github.com/Lei0x1/Lei0x1/issues)**
 
