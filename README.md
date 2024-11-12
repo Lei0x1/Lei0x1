@@ -10,12 +10,9 @@
 
 <div align="center">
  
-<<<<<<< HEAD
  🔭 I’m currently working on [App Manager](https://github.com/Lei0x1/App-Manager), [Station Eleven](https://github.com/Lei0x1/Station-Eleven)
  
-=======
  🔭 I’m currently working on [App Manager](https://github.com/Lei0x1/App-Manager), [CMakePreset Generator](https://github.com/Lei0x1/CMakePreset-Generator), [CMakeAlchemy](https://github.com/Lei0x1/CMakeAlchemy), [Station-Eleven](https://github.com/Lei0x1/Station-Eleven).
->>>>>>> dc68606c7f570730a8b51b39f40573a832c92c8e
  🌱 I’m currently learning **C/C++, Node, Python, Java, Html, CSS, Js**
 
 💬 Ask me about **C++ or anything [here](https://github.com/Lei0x1/Lei0x1/issues)**
