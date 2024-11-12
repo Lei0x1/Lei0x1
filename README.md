@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on [App Manager](https://github.com/Lei0x1/App-Manager), [CMakePreset Generator](https://github.com/Lei0x1/CMakePreset-Generator), [CMakeAlchemy](https://github.com/Lei0x1/CMakeAlchemy), [Station Eleven](https://github.com/Lei0x1/Station-Eleven)
+ 🔭 I’m currently working on [App Manager](https://github.com/Lei0x1/App-Manager), [Station Eleven](https://github.com/Lei0x1/Station-Eleven)
  
  🌱 I’m currently learning **C/C++, Node, Python, Java, Html, CSS, Js**
 
