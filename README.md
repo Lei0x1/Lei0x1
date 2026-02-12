@@ -4,19 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lei0x1!;" />
 </h1>
 
-<h3 align="center">Inspiring Software Developer</h3>
-
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on [App Manager](https://github.com/Lei0x1/App-Manager), [InformaticaX](https://github.com/Lei0x1/InformaticaX)
+ 🔭 I’m currently working on []()
  
- 🌱 I’m currently learning **C/C++, Node, Python, Java, Html, CSS, Js**
+ 🌱 I’m currently learning **C/C++, Node, Python, Java, Html, CSS, Js, Lua**
 
-💬 Ask me about **C++ or anything [here](https://github.com/Lei0x1/Lei0x1/issues)**
-
-⚡ Fun fact **I'm like a well-written C++ program — efficient, adaptable, and always looking to optimize my performance!**
+💬 Ask me about **Anything [here](https://github.com/Lei0x1/Lei0x1/issues)**
 
  </div>
  
@@ -37,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,cpp,java" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,cpp,java,lua" /><br>
 </div>
 
 <br/>
